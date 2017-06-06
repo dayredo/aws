@@ -1,0 +1,288 @@
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-BlackItalic'; 
+	   src: url('Lato-BlackItalic/Lato-BlackItalic.eot');
+	   src: url('Lato-BlackItalic/Lato-BlackItalic.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-BlackItalic/Lato-BlackItalic.woff2') format('woff2'),
+		   url('Lato-BlackItalic/Lato-BlackItalic.woff') format('woff'),
+		   url('Lato-BlackItalic/Lato-BlackItalic.ttf') format('truetype'),
+		   url('Lato-BlackItalic/Lato-BlackItalic.svg#Lato-BlackItalic') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Bold'; 
+	   src: url('Lato-Bold/Lato-Bold.eot');
+	   src: url('Lato-Bold/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Bold/Lato-Bold.woff2') format('woff2'),
+		   url('Lato-Bold/Lato-Bold.woff') format('woff'),
+		   url('Lato-Bold/Lato-Bold.ttf') format('truetype'),
+		   url('Lato-Bold/Lato-Bold.svg#Lato-Bold') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Medium'; 
+	   src: url('Lato-Medium/Lato-Medium.eot');
+	   src: url('Lato-Medium/Lato-Medium.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Medium/Lato-Medium.woff') format('woff'),
+		   url('Lato-Medium/Lato-Medium.ttf') format('truetype'),
+		   url('Lato-Medium/Lato-Medium.svg#Lato-Medium') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-MediumItalic'; 
+	   src: url('Lato-MediumItalic/Lato-MediumItalic.eot');
+	   src: url('Lato-MediumItalic/Lato-MediumItalic.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-MediumItalic/Lato-MediumItalic.woff2') format('woff2'),
+		   url('Lato-MediumItalic/Lato-MediumItalic.woff') format('woff'),
+		   url('Lato-MediumItalic/Lato-MediumItalic.ttf') format('truetype'),
+		   url('Lato-MediumItalic/Lato-MediumItalic.svg#Lato-MediumItalic') format('svg');
+}
+
+@font-face{
+	   font-family: 'Courier'; 
+	   src: url('Courier/Courier.eot');
+	   src: url('Courier/Courier.eot?#iefix') format('embedded-opentype'),
+		   url('Courier/Courier.woff2') format('woff2'),
+		   url('Courier/Courier.woff') format('woff'),
+		   url('Courier/Courier.ttf') format('truetype'),
+		   url('Courier/Courier.svg#Courier') format('svg');
+}
+
+/*@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}
+
+@font-face{
+	   font-family: 'Lato-Black'; 
+	   src: url('Lato-Black/Lato-Black.eot');
+	   src: url('Lato-Black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+		   url('Lato-Black/Lato-Black.woff2') format('woff2'),
+		   url('Lato-Black/Lato-Black.woff') format('woff'),
+		   url('Lato-Black/Lato-Black.ttf') format('truetype'),
+		   url('Lato-Black/Lato-Black.svg#Lato-Black') format('svg');
+}*/

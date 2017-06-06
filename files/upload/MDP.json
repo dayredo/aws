@@ -1,0 +1,116 @@
+{
+	"MDP" : [
+		{
+			"id" : "0", 
+			"name" : "Элитный SPAS-12", 
+			"weap_id" : "1", 
+			"series" : "«Элитная 1»",
+			"image" : ""
+		},
+		{
+			"id" : "1", 
+			"name" : "Элитный SPAS-12 (модель 2)", 
+			"weap_id" : "1", 
+			"series" : "«Элитная 2»",
+			"image" : ""
+		},
+		{
+			"id" : "2", 
+			"name" : "SPAS-12 «Антизомби»", 
+			"weap_id" : "1", 
+			"series" : "«Антизомби»",
+			"image" : ""
+		},
+		{
+			"id" : "3", 
+			"name" : "Новогодний SPAS-12", 
+			"weap_id" : "1", 
+			"series" : "«Новогодняя»",
+			"image" : ""
+		},
+		{
+			"id" : "4", 
+			"name" : "Remington 870 CB «Неон»", 
+			"weap_id" : "4", 
+			"series" : "«Неон»",
+			"image" : ""
+		},
+		{
+			"id" : "5", 
+			"name" : "Hawk Pump «Город»", 
+			"weap_id" : "5", 
+			"series" : "«Город»",
+			"image" : ""
+		},
+		{
+			"id" : "6", 
+			"name" : "Benelli Nova tactical «Вьюга»", 
+			"weap_id" : "6", 
+			"series" : "«Вьюга»",
+			"image" : ""
+		},
+		{
+			"id" : "7", 
+			"name" : "Kel-Tec Shotgun «Летние игры 2016»", 
+			"weap_id" : "8", 
+			"series" : "«Летние игры 2016»",
+			"image" : ""
+		},
+		{
+			"id" : "8", 
+			"name" : "Mossberg 500 Custom «Магма»", 
+			"weap_id" : "10", 
+			"series" : "«Магма»",
+			"image" : ""
+		},
+		{
+			"id" : "9", 
+			"name" : "Элитный Mossberg 500 Custom", 
+			"weap_id" : "10", 
+			"series" : "«Элитная 1»",
+			"image" : ""
+		},
+		{
+			"id" : "10", 
+			"name" : "Золотой Fabarm STF 12 Compact", 
+			"weap_id" : "11", 
+			"series" : "«Золотая»",
+			"image" : ""
+		},
+		{
+			"id" : "11", 
+			"name" : "Fabarm STF 12 Compact «Убийца зомби»", 
+			"weap_id" : "11", 
+			"series" : "«Убийца зомби»",
+			"image" : ""
+		},
+		{
+			"id" : "12", 
+			"name" : "Fabarm STF 12 Compact «Стужа»", 
+			"weap_id" : "11", 
+			"series" : "«Стужа»",
+			"image" : ""
+		},
+		{
+			"id" : "13", 
+			"name" : "Fabarm STF 12 Compact «Евро-2016»", 
+			"weap_id" : "11", 
+			"series" : "«Евро-2016»",
+			"image" : ""
+		},
+		{
+			"id" : "14", 
+			"name" : "Золотой MAG-7", 
+			"weap_id" : "12", 
+			"series" : "«Золотая»",
+			"image" : ""
+		},
+		{
+			"id" : "15", 
+			"name" : "Золотой DP-12", 
+			"weap_id" : "13", 
+			"series" : "«Золотая»",
+			"image" : ""
+		}
+	]
+}
